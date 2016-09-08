@@ -1,4 +1,4 @@
-# php7-mongodb-laravel
+# Laravel MongoDB [php7]
 
 MongoDB with basic admin user for Laravel Homestead.
 
